@@ -15,3 +15,7 @@ Setup Cursor + Claude Code + Codex"
 5. Opened the repository in Cursor
 6. Wrote this README file
 7. Committed and pushed the changes to GitHub
+
+## Issues Encountered
+Claude Code login failed on the first attempt — resolved by signing out and logging back in to my Anthropic account."]
+- [Example: "The Codex extension didn't appear in the Extensions search — fixed by updating Cursor to the latest version first."]
